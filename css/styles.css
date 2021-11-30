@@ -1,0 +1,22 @@
+body {
+  background-color: #EAEAEA;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: thick;
+  border-color: grey;
+  width: 33%;
+}
+
+h1 {
+  color: #344CB7;
+}
+
+h2 {
+  color: #344CB7;
+}
+
+.ayush {
+  border-radius: 25%;
+}
